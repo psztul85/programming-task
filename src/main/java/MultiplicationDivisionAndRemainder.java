@@ -33,7 +33,4 @@ public class MultiplicationDivisionAndRemainder {
         this.divRemainder = divRemainder;
     }
 
-    public double calculateMultiplicationDivisionAndDivRemainderResult(double x, double y){
-        return x*y;
-    }
 }
